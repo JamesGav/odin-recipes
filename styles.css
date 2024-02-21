@@ -1,0 +1,12 @@
+li {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    background-color: rgb(232, 47, 63);
+    outline-style: solid;
+    outline-color: black;
+}
