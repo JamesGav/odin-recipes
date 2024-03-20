@@ -1,12 +1,28 @@
-li {
-    font-weight: bold;
-    font-family: 'Courier New', Courier, monospace;
+.recipelist{
+    background-color:bisque;
+    width: 500px;
+    margin: 0 auto;
 }
 
-h1 {
+.recipelist li {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    width: auto;
+}
+
+
+.recipelist h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: azure;
     background-color: rgb(232, 47, 63);
     outline-style: solid;
     outline-color: black;
+}
+.center {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    background-color: bisque;
 }
